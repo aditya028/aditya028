@@ -28,6 +28,8 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://pngimg.com/uploads/github/github_PNG28.png" />
+<img align="left" alt="C++" width="26px" src="https://0ebdc219a6018a0b4949-5cd5d2f3f64eaf0eb4e05aee819f5378.ssl.cf5.rackcdn.com/cpp.png" />
+<img align="left" alt="DS" width="26px" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/2b/96fb00d9ae11e595dfe9e95f32b969/logo3.png" />
 
 [instagram]: https://instagram.com/
 [linkedin]: https://www.linkedin.com/in/aditya-nandan-8005b8195/
