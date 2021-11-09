@@ -8,12 +8,12 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to think for a real world problem
 - 💬 Ask me about cp and react .
-- 📫 How to reach me: [linkedin]
+- 📫 How to reach me: aditya28nandan@gmail.com
 - ⚡ Fun fact: Thinking about this
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG24.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
