@@ -6,8 +6,6 @@
 - 🔭 I’m currently working on react project
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to think for a real world problem
-- 💬 Ask me about cp and react .
 - 📫 How to reach me: aditya28nandan@gmail.com
 - ⚡ Fun fact: Thinking about this
 
