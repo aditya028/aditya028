@@ -3,9 +3,8 @@
 ## I'm a Student, Developer, and competitive coder!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🔭 I’m currently working on react project
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🔭 Passionate about building robust and scalable applications using Golang and React
+- 👯 Actively engaged in the world of Data Structures and Algorithms (DSA), always striving to enhance problem-solving skills. 
 - 📫 How to reach me: aditya28nandan@gmail.com
 - ⚡ Fun fact: Thinking about this
 
