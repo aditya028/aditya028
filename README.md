@@ -9,13 +9,6 @@
 - 📫 How to reach me: aditya28nandan@gmail.com
 - ⚡ Fun fact: Thinking about this
 
-### Connect with me:
-
-[<img align="left" alt="aditya | LinkedIn" width="22px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG24.png" />][linkedin]
-[<img align="left" alt="aditya | LinkedIn" width="22px" src="https://th.bing.com/th/id/R.88d88f1872909358b97ffa695cb97b66?rik=A77az%2fwRYB%2bLrw&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f05%2fGmail_logo_icon.png&ehk=8gYQfqc8h6fYCXddKEQE%2blQ7004YVwPu1S2LSHmiUgE%3d&risl=&pid=ImgRaw&r=0" />][gmail]
-[<img align="left" alt="aditya | LinkedIn" width="22px" src="https://wie.ieee.org/wp-content/uploads/2019/06/twitter-logo-transparent-15.png" />][twitter]
-[<img align="left" alt="aditya | Instagram" width="22px" src="https://clipart.info/images/ccovers/1516920567instagram-png-logo-transparent.png" />][instagram]
-
 <br />
 
 ### Languages and Tools:
